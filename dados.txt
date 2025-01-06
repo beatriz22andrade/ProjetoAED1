@@ -1,0 +1,18 @@
+P;hidratação facial
+E;limpar a pele com loção de limpeza
+E;esfoliar suavemente para remover células mortas
+E;aplicar máscara hidratante
+E;hidratar com creme específico
+P;massagem relaxante
+E;preparar o ambiente com música suave e óleos essenciais
+E;aplicar óleo ou creme de massagem nas costas
+E;realizar movimentos suaves e profundos para relaxamento muscular
+E;finalizar com toalha quente nas áreas massageadas
+P;esfoliação corporal
+E;aplicar esfoliante com movimentos circulares
+E;enxaguar o corpo com água morna
+E;aplicar loção hidratante em todo o corpo
+P;banho de imersão
+E;preencher a banheira com água morna e sais de banho
+E;relaxar por 20 minutos
+E;secar suavemente e aplicar óleo corporal
